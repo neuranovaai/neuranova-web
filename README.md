@@ -23,5 +23,4 @@ Tu sitio estará disponible en cuestión de minutos.
 Este proyecto está en evolución constante. Si deseas colaborar o sugerir mejoras, ¡eres bienvenido/a!
 
 ---
-
 **Creado con visión, propósito y futuro por [NeuraNova AI](https://neuranova.vercel.app)**.
